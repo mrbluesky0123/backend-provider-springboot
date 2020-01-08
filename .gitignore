@@ -1,0 +1,7 @@
+.idea/
+.gradle/
+.classpath
+.project
+build/
+out/
+k8s/
